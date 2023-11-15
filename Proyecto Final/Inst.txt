@@ -1,0 +1,6 @@
+
+Instrucciones:
+
+Este programa apoya al proceso del razonamiento logico de alumnos de nivel basico mediante la realizacion de juegos que permitan el desarrollo de su logica cognitiva
+
+El juego tiene 8 pares de numeros, y el primer jugador que encuentre un par gana.
